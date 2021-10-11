@@ -8,3 +8,5 @@ Foundation’s title sequence was created by Imaginary Forces, a Los Angeles des
 The source .archive file is the file format used by iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.
 
 This font is released under the OFL, the SIL Open Font License.
+
+![Sample text with all characters except X](samples/Foundation Titles Hand sample 1.png?raw=true "Title")
