@@ -9,4 +9,4 @@ The source .archive file is the file format used by iFontMaker, the iPad font-de
 
 This font is released under the OFL, the SIL Open Font License.
 
-[Sample text with all characters except X](samples/Foundation Titles Hand sample 1.png?raw=true "Title")
+![Sample text with all characters except X](samples/Foundation_Titles_Hand_sample_1.png?raw=true "Title")
