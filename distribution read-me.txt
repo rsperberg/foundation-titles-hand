@@ -1,0 +1,12 @@
+About the Foundation Titles Hand font
+
+Foundation, the Apple TV+ series made from the Isaac Asimov books (and which has released only four episodes as I write this), uses a number of fonts with related design for the logo, on-screen text, in-scene signage and the title credits.  Only in the last of these are most letters represented.
+
+Foundation’s title sequence was created by Imaginary Forces, a Los Angeles design studio and creative agency (imaginaryforces.com), and presumably IF created the specific design used for names in the title credits.  In this font, I have hand-drawn the letters seen on-screen, excepting Q and X, which do not appear; those are my invention.  Lowercase letters, numbers, and symbols and punctuation (other than & and . and ,) are also not used, hence their omission here.
+
+Foundation Titles Hand is released under the SIL Open Font License; more information and the source file for the font (in the iFontMaker format) can be found at https://github.com/rsperberg/foundation-titles-hand
+
+Roger Sperberg
+glyphery.com
+Oct. 10, 2021
+
