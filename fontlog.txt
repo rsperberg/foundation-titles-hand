@@ -12,7 +12,7 @@ This release contains only the Latin upper- and lowercase characters (the lowerc
 
 Documentation can be found at github.com/rsperberg/foundation-titles-hand
 
-Foundation Titles Hand was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.
+Foundation Titles Hand was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.  The font can also be downloaded from 2ttf.com/JbTu7kcPduW
 
 To contribute to the project, visit the Github page.
 
