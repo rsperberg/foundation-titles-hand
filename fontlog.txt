@@ -8,16 +8,18 @@ Foundation Titles Hand is a Unicode typeface family that supports all languages 
 
 More specifically, this release supports the following Unicode range: U+0026 - U+007A
 
-This release contains only the Latin upper- and lowercase characters (the lowercase being duplicates of the uppercase), the ampersand and four punctuation symbols (period, comma, colon and semicolon), 59 glyphs in. all
+This release contains only the Latin upper- and lowercase characters (the lowercase being duplicates of the uppercase), the ampersand and four punctuation symbols (period, comma, colon and semicolon), 59 glyphs in all.
 
 Documentation can be found at github.com/rsperberg/foundation-titles-hand
 
-Foundation Titles Hand was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.  The font can also be downloaded from 2ttf.com/JbTu7kcPduW
+Foundation Titles Hand was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.  The regular font can also be downloaded from 2ttf.com/JbTu7kcPduW, and the semibold from 2ttf.com/5jvRKCvKCG0
 
 To contribute to the project, visit the Github page.
 
 ChangeLog
 
+13 October 2021 (Roger Sperberg) Foundation Titles Hand version 0.8
+- added semibold version
 10-11 October 2021 (Roger Sperberg) Foundation Titles Hand version 0.8
 - created Github repository with ttf and source files, OFL and other information files and samples
 - initial release
