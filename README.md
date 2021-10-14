@@ -11,4 +11,4 @@ This font is released under the OFL, the SIL Open Font License.
 
 !["Foundation" set over photo of galaxy](samples/Fdtn-galaxy.png?raw=true "Foundation font")
 
-![The normal and semibold characters](samples/Foundation_Titles_Hand_alphabet.png?raw=true "Foundation alphabet")
+![The normal and semibold characters](samples/Foundation_Titles_Hand_alphabet.jpg?raw=true "Foundation alphabet")
