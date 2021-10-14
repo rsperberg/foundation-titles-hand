@@ -9,5 +9,6 @@ The source .archive files are in the file format used by iFontMaker, the iPad fo
 
 This font is released under the OFL, the SIL Open Font License.
 
-![Sample text with all characters except X](samples/Foundation_Titles_Hand_sample_1.jpg?raw=true "Title")
+!["Foundation" set over photo of galaxy](samples/Fdtn-galaxy.png?raw=true "Foundation font")
 
+![The normal and semibold characters](samples/Foundation_Titles_Hand_alphabet.png?raw=true "Foundation alphabet")
