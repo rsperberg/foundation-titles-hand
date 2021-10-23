@@ -6,9 +6,9 @@ Basic Font Information
 
 Foundation Titles Hand is a Unicode typeface family that supports all languages that use the Latin script and its variants, and could be expanded to support other scripts.
 
-More specifically, this release supports the following Unicode range: U+0026 - U+007A
+More specifically, this release supports the following Unicode ranges: U+0021 - U+007A, U+2013 - U+2014
 
-This release contains only the Latin upper- and lowercase characters (the lowercase being duplicates of the uppercase), the ampersand and four punctuation symbols (period, comma, colon and semicolon), 59 glyphs in all.
+This release contains only the Latin upper- and lowercase characters (the lowercase being duplicates of the uppercase), the ampersand, apostrophe, hyphen and seven punctuation symbols (period, comma, exclamation mark, en dash, em dash, colon and semicolon), 64 glyphs in all.
 
 Documentation can be found at github.com/rsperberg/foundation-titles-hand
 
@@ -18,6 +18,8 @@ To contribute to the project, visit the Github page.
 
 ChangeLog
 
+23 October 2021 (Roger Sperberg) Foundation Titles Hand, regular and semibold, version 0.83
+- added exclamation mark, apostrophe or right single quote, hyphen, em dash and en dash
 13 October 2021 (Roger Sperberg) Foundation Titles Hand version 0.8
 - added semibold version
 10-11 October 2021 (Roger Sperberg) Foundation Titles Hand version 0.8
