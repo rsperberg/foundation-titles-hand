@@ -1,18 +1,18 @@
 FONTLOG for the Foundation Titles Hand font
 
-This file provides detailed information on the Foundation Titles Hand font software. This information should be distributed along with the Foundation Titles Hand font and any derivative works.
+This file provides detailed information on the Foundation Titles Hand font software.  This information should be distributed along with the Foundation Titles Hand font and any derivative works.
 
 Basic Font Information
 
 Foundation Titles Hand is a Unicode typeface family that supports all languages that use the Latin script and its variants, and could be expanded to support other scripts.
 
-More specifically, this release supports the following Unicode ranges: U+0021 - U+007A, U+2013 - U+2014
+More specifically, this release supports the following Unicode ranges:  U+0020 - U+007A, U+2013 - U+2019
 
-This release contains only the Latin upper- and lowercase characters (the lowercase being duplicates of the uppercase), the ampersand, apostrophe, hyphen and seven punctuation symbols (period, comma, exclamation mark, en dash, em dash, colon and semicolon), 64 glyphs in all.
+This release contains only the Latin upper- and lowercase characters (the lowercase being duplicates of the uppercase), the ampersand, apostrophe, hyphen and seven punctuation symbols (period, comma, exclamation mark, en dash, em dash, colon and semicolon), 65 characters (or 101 glyphs counting spaces) in all.
 
 Documentation can be found at github.com/rsperberg/foundation-titles-hand
 
-Foundation Titles Hand was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.  The regular font can also be downloaded from 2ttf.com/JbTu7kcPduW, and the semibold from 2ttf.com/5jvRKCvKCG0
+Foundation Titles Hand was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.  The regular font can also be downloaded from 2ttf.com/JbTu7kcPduW, and the semibold from 2ttf.com/5jvRKCvKCG0 (the Gallery at 2ttf.com hosts some 65,000 fonts created with iFontMaker that are available for downloading).
 
 To contribute to the project, visit the Github page.
 
@@ -28,7 +28,7 @@ ChangeLog
 
 Acknowledgments
 
-If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D).  This list is in alphabetical order.
 
 N: Roger Sperberg
 E: glypheryfonts@gmail.com
