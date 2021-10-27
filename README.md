@@ -1,7 +1,7 @@
 # Foundation Titles Hand
 Hand-drawn font of the character design used in the title sequence of the Foundation series. A semibold version is included.
 
-!["Foundation" set over photo of galaxy in Foundation Titles semibold font](samples/Fdtn-galaxy.png?raw=true "Foundation Titles OFL font")
+!["Foundation" set over photo of galaxy in Foundation Titles semibold font](samples/Foundation_Titles_Hand_name_800px.png?raw=true "Foundation Titles OFL font")
 
 Foundation, the Apple TV+ show made from the Isaac Asimov books (of which only four episodes had been released when this font was first published), uses a number of fonts with related design for the logo, on-screen text, in-scene signage and the title credits.  Only in the last of these are most letters represented.
 
