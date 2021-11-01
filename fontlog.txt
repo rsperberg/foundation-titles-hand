@@ -18,8 +18,8 @@ To contribute to the project, visit the Github page.
 
 ChangeLog
 
-23 October 2021 (Roger Sperberg) Foundation Titles Hand, regular and semibold, version 0.83
-- added exclamation mark, apostrophe or right single quote, hyphen, em dash and en dash
+1 November 2021 (Roger Sperberg) Foundation Titles Hand, regular weight, version 0.85
+- brought character set up to Basic Latin
 13 October 2021 (Roger Sperberg) Foundation Titles Hand version 0.8
 - added semibold version
 10-11 October 2021 (Roger Sperberg) Foundation Titles Hand version 0.8
