@@ -11,6 +11,6 @@ The source .archive files are in the file format used by iFontMaker, the iPad fo
 
 This font is released under the OFL, the SIL Open Font License.
 
-![The normal and semibold characters of Foundation Titles font](samples/Foundation_Titles_Hand_alphabet.jpg?raw=true "Foundation Titles alphabet")
+![The normal and semibold characters of Foundation Titles font](samples/Foundation_Titles_Hand_alphabet_v0.85.png?raw=true "Foundation Titles alphabet")
 
 To download the related OFL font based on the typeface used in Foundation to indicate changes in time (e.g., "17 YEARS AFTER THE STARBRIDGE BOMBING") or location ("DWARF PLANET AETHRA"), visit the <a href="https://github.com/rsperberg/foundation-one" title="Jump to Foundation Titles repo">Foundation One</a> repo here on Github.
