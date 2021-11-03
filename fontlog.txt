@@ -6,9 +6,9 @@ Basic Font Information
 
 Foundation Titles Hand is a Unicode typeface family that supports all languages that use the Latin script and its variants, and could be expanded to support other scripts.
 
-More specifically, this release supports the following Unicode ranges:  U+0020 - U+007A, U+2013 - U+2019
+More specifically, this release supports the following Unicode ranges:  U+0020 - U+007E, U+2013 - U+201D
 
-This release contains only the Latin upper- and lowercase characters (the lowercase being duplicates of the uppercase), the ampersand, apostrophe, hyphen and seven punctuation symbols (period, comma, exclamation mark, en dash, em dash, colon and semicolon), 65 characters (or 101 glyphs counting spaces) in all.
+This release contains most of the Basic Latin codeblock, with the "lowercase" characters being duplicates of the uppercase), 103 characters (or 106 glyphs counting spaces) in all.
 
 Documentation can be found at github.com/rsperberg/foundation-titles-hand
 
@@ -18,7 +18,7 @@ To contribute to the project, visit the Github page.
 
 ChangeLog
 
-1 November 2021 (Roger Sperberg) Foundation Titles Hand, regular weight, version 0.85
+1-2 November 2021 (Roger Sperberg) Foundation Titles Hand, both weights, version 0.85
 - brought character set up to Basic Latin
 13 October 2021 (Roger Sperberg) Foundation Titles Hand version 0.8
 - added semibold version
