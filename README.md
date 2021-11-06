@@ -13,4 +13,6 @@ This font is released under the OFL, the SIL Open Font License.
 
 ![The normal and semibold characters of Foundation Titles font](samples/Foundation_Titles_Hand_charsets_v0.85.png?raw=true "Foundation Titles character set, Basic Latin coverage")
 
-To download the related OFL font based on the typeface used in Foundation to indicate changes in time (e.g., "17 YEARS AFTER THE STARBRIDGE BOMBING") or location ("DWARF PLANET AETHRA"), visit the <a href="https://github.com/rsperberg/foundation-one" title="Jump to Foundation Titles repo">Foundation One</a> repo here on Github.
+To download the related OFL font based on the type design used in Foundation to indicate changes in time (e.g., "17 YEARS AFTER THE STARBRIDGE BOMBING") or location ("DWARF PLANET AETHRA"), visit the <a href="https://github.com/rsperberg/foundation-one" title="Jump to Foundation One repo">Foundation One</a> repo here on GitHub.
+
+A font based on the <a href="https://github.com/rsperberg/foundation-logo" title="Jump to Foundation Logo repo"> Foundation Logo</a> is also in progress, and a <a href="https://github.com/rsperberg/foundation-screen" title="Jump to Foundation Screen repo">font</a> based on the type design seen on computer screens in Foundation is planned.
