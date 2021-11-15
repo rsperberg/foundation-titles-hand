@@ -14,7 +14,24 @@ Documentation can be found at github.com/rsperberg/foundation-titles-hand
 
 Foundation Titles Hand was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.  The regular font can also be downloaded from 2ttf.com/JbTu7kcPduW, and the semibold from 2ttf.com/5jvRKCvKCG0 (the Gallery at 2ttf.com hosts some 65,000 fonts created with iFontMaker that are available for downloading).
 
-To contribute to the project, visit the Github page.
+Related Projects
+
+Related OFL fonts based on designs used in Foundation are also located at GitHub:
+
+- Foundation Titles Hand (this project) is based on the title sequence of Foundation and located at github.com/rsperberg/foundation-titles-hand
+
+- Foundation One is based on the design used onscreen to indicate a change in context, time or location and is located at github.com/rsperberg/foundation-one
+
+- Foundation Logo is based on the series’ logo design and is located at github.com/rsperberg/foundation-logo
+
+- Foundation Screen is the design used for text displayed on computer screens, which is derived from Foundation One; it’s located at github.com/rsperberg/foundation-screen
+
+- Foundation Icons is based on the icons shown in signage and on computer screens; it’s located at github.com/rsperberg/foundation-icons-hand
+
+- A version of Foundation One with serifs is planned, located at github.com/rsperberg/foundation-serif
+
+To contribute to any of these projects, visit its Github page.
+
 
 ChangeLog
 
