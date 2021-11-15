@@ -7,7 +7,7 @@ Foundation, the Apple TV+ show made from the Isaac Asimov books (of which only f
 
 Foundation’s title sequence was created by Imaginary Forces, a Los Angeles design studio and creative agency (imaginaryforces.com), and presumably IF created the specific design used for names in the title credits.  In this font, I have hand-drawn the characters seen on-screen, excepting Q, which does not appear; that is my invention.  Lowercase letters, numbers, and symbols and punctuation (other than & and . and ,) are also not used, hence their omission here initially.  [Note: Until authoritative designs appear, the fonts will rely on "compatible conjectures" for practicality.  Preliminary versions of the main non-letter glyphs in the Basic Latin Unicode block have been constructed and kerned, and the 0.85 version of both fonts includes them.]
 
-The source .archive files are in the file format used by iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.
+The source .ifm2archive files are in the file format used by iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at <a href="https://2ttf.com/" title="Jump to 2ttf.com">2ttf.com</a>.
 
 This font is released under the OFL, the SIL Open Font License.
 
